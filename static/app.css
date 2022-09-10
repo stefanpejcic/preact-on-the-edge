@@ -65,14 +65,14 @@ main .info {
   width: 100%;
   display: grid;
   padding: 0 2.5rem;
-  font-size: min(5vw, 2rem);
+  font-size: min(5vw, 5rem);
   box-sizing: border-box;
 }
 
 main .block {
   display: flex;
   margin: 0;
-  padding: 1rem 0;
+  padding: 10rem 0;
 }
 
 main .block:nth-child(1) {
@@ -118,7 +118,7 @@ main .block strong.na {
     display: flex;
     justify-content: center;
     position: relative;
-    top: 60vh;
+    top: 40%;
     gap: 4rem;
     grid-template-columns: 1fr 1fr;
   }
