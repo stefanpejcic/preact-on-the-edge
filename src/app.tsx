@@ -26,7 +26,7 @@ export default function App({ req, isCold }) {
             </div>
           </main>
           <div class="debug">
-            Generated at {new Date().toISOString()} ({isCold ? 'cold' : 'hot'})
+            Provereno u {new Date().toISOString()}
           </div>
         </div>
 
