@@ -19,8 +19,8 @@ export default function App({ req, isCold }) {
             <div class="info">
               <div class="block">
                 <div class="contents">
-                  <h1>Vaša javna IP adresa je:</h1>
-                  <strong>{ip}</strong>
+                  <h1>Vaša javna IP adresa je:
+                  <strong>{ip}</strong></h1>
                 </div>
               </div>
             </div>
