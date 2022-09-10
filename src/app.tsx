@@ -376,8 +376,8 @@ function Footer() {
   return (
     <footer>
       <p class="details">
-        Built by{' '}
-        <a target="_blank" href="https://pejcic.rs">
+        Hosted on{' '}
+        <a target="_blank" href="https://unlimited.rs">
           UNLIMITED.RS
         </a>
       </p>
