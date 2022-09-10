@@ -19,9 +19,7 @@ export default function App({ req, isCold }) {
             <div class="info">
               <div class="block">
                 <div class="contents">
-                  <h1>Vaša javna IP adresa je:
-                    <input type="text" value="{ip}" id="myInput">
-<button onclick="myFunction()">💾</button>                    
+                  <h1>Vaša javna IP adresa je:               
                   <strong>{ip}</strong></h1>
                 </div>
               </div>
