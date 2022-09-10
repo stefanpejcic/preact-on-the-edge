@@ -13,26 +13,10 @@ export default function App({ req, isCold }) {
 
           <main>
             <h1>
-              <span>Hello from the edge!</span>
+              <span></span>
             </h1>
 
             <div class="info">
-              <div class="block">
-                <div class="contents">
-                  <span>Your city</span>
-                  <strong
-                    title={
-                      city === null
-                        ? 'GeoIP information could not be derived from your IP'
-                        : null
-                    }
-                    class={city === null ? 'na' : null}
-                  >
-                    {city === null ? 'N/A' : city}
-                  </strong>
-                </div>
-              </div>
-
               <div class="block">
                 <div class="contents">
                   <span>Your IP address</span>
