@@ -39,7 +39,7 @@ export default function App({ req, isCold }) {
 function Head() {
   return (
     <head>
-      <title>Preact on the edge</title>
+      <title>{ip}</title>
       <meta charset="utf-8" />
       <link rel="icon" href="/static/favicon.ico" />
       <link rel="stylesheet" href="/static/app.css" />
