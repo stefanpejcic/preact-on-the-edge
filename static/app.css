@@ -93,6 +93,12 @@ main .block span {
   font-size: 0.6em;
 }
 
+@media only screen and (max-width: 600px) {
+main .block strong {
+  font-size: 1em;
+  }
+}
+
 main .block strong {
   display: block;
   font-size: 1.4em;
