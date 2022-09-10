@@ -378,7 +378,7 @@ function Footer() {
       <p class="details">
         Built by{' '}
         <a target="_blank" href="https://pejcic.rs">
-          Stefan
+          UNLIMITED.RS
         </a>
       </p>
 
