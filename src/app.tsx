@@ -374,13 +374,9 @@ function Footer() {
   return (
     <footer>
       <p class="details">
-        Built with{' '}
-        <a target="_blank" href="https://preactjs.com">
-          Preact
-        </a>{' '}
-        on{' '}
-        <a target="_blank" href="https://vercel.com">
-          Vercel
+        Built by{' '}
+        <a target="_blank" href="https://pejcic.rs">
+          Stefan
         </a>
       </p>
 
