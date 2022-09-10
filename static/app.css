@@ -3,10 +3,16 @@ body {
   height: 100%;
 }
 
+.img{
+top: 30%;
+position: absolute;
+left: 40%;
+}
+
 body {
   --fg: black;
   --bg: white;
-  --preact: #673ab8;
+  --preact: #0474c5;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
