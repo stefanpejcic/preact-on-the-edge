@@ -363,7 +363,9 @@ function Card() {
       </g>
 
       <g id="center">
-       <a href="https://ip.unlimited.rs"><img src="https://unlimited.rs/wp-content/themes/unlimited-RS/img/home-big-logo-over.png"></img></a>
+       <a target="_blank" href="https://ip.unlimited.rs">
+         <img src="https://unlimited.rs/wp-content/themes/unlimited-RS/img/home-big-logo-over.png"></img>
+       </a>
       </g>
       
     </svg>
